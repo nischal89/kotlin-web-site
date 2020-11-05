@@ -1,7 +1,7 @@
 ---
-title: docs/native-gradle-plugin.html
+title: docs/mpp-dsl-reference.html
 showAuthorInfo: false
-redirect_path: https://kotlinlang.org/docs/native-gradle-plugin.html
+redirect_path: https://kotlinlang.org/docs/mpp-dsl-reference.html
 ---
 
-The page is moved to [docs/native-gradle-plugin.md](docs/native-gradle-plugin.md)
+The page is moved to [docs/mpp-dsl-reference.md](docs/mpp-dsl-reference.md)
